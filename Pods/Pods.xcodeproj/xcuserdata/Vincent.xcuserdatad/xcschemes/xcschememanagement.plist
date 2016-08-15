@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>AFNetworking.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Scaphold-Digits.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Scaphold-DigitsTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Scaphold-DigitsUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>87C2E9A57F4EB0586C8C39014230121C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A484A7D01C06027CD2AECEE837D3D876</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AE764075DC0FCABB4BEE534718F56860</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E4BCEA0F8D4DFE3C7603E512CA898968</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

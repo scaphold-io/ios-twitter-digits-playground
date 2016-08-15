@@ -1,0 +1,6 @@
+framework module Pods_Scaphold_DigitsTests {
+  umbrella header "Pods-Scaphold-DigitsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

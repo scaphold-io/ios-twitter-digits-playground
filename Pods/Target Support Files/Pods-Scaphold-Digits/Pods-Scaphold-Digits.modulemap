@@ -1,0 +1,6 @@
+framework module Pods_Scaphold_Digits {
+  umbrella header "Pods-Scaphold-Digits-umbrella.h"
+
+  export *
+  module * { export * }
+}
